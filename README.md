@@ -2,9 +2,9 @@
 Tugas 02 Weather <br> 
 Pemrograman Perangkat Moblie
 <br><br>
-Nama : Munib Tahta
+Nama : Eko Wahyudi
 <br>
-Nim  : 2015150120
+Nim  : 2015150082
 <br>
 Kls  : 02
 <br><br>
