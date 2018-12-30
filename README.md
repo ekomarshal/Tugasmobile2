@@ -8,6 +8,7 @@ Nim  : 2015150082
 <br>
 Kls  : 02
 <br><br>
+https://snack.expo.io/@git/github.com/ekomarshal/Tugasmobile2
 QR CODE APP:
 <br><br><img src="qrcode.png">
 <br><br>
