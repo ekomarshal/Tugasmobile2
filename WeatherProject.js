@@ -32,7 +32,7 @@ class WeatherProject extends Component {
     return (
      
      <ImageBackground
-  source={require('./clear.PNG')}
+  source={require('./clear.png')}
   style={{width: '100%', height: '100%'}}
 > 
 <Text style={[styles.largeText, styles.textStyle]}>Pemrograman Perangkat Mobile</Text>
